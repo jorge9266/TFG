@@ -25,7 +25,6 @@ if (isset($_SESSION['userID'])  && $_SESSION['connected'] == true && $_SESSION['
 					<div class="d-flex justify-content-center">
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3198.007292212622!2d-4.43676331152704!3d36.72238610059262!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd72f7a26901586d%3A0x22fa7564c9b0281d!2sC.%20Lanuza%2C%201%2C%20Distrito%20Centro%2C%2029009%20M%C3%A1laga!5e0!3m2!1ses!2ses!4v1716462232521!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 					</div>
-					<img src="https://picsum.photos/1200/500" alt="Mapa" class="img-responsive center-block">
 				</div>
 
 				<div id="contacto">
